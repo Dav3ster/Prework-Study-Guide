@@ -5,7 +5,7 @@
 - Motivation - I wanted to prepare myself for class by finishing the prework.
 - Why - I built this webpage to help me review and study in the months to come.
 - Benefit - Having all my notes in one easy accessible place.
-- Take away - Getting my feet wet, and bulding growth mindset.
+- Take away - Getting my feet wet, and building growth mindset.
 
 ## Installation
 
